@@ -146,3 +146,6 @@ Me chamo João Vitor, tentando ser um desenvolvedor
   />
 
 </p>
+
+<img src="https://raw.githubusercontent.com/joaovitorg/joaovitorg/output/snake.svg" alt="Snake animation" />
+
