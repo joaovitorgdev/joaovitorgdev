@@ -1,62 +1,67 @@
-<h3 align="center"># 👩🏻‍💻 Joao Vitor<br>Desenvolvedora FullStack<br><br>Me chamo João Vitor, tentando ser um desenvolvedor</h3>
-
-###
-
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="60" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="60" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="60" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/react/61DAFB" height="60" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/pandas/150458" height="60" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="60" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/php/777BB4" height="60" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="60" alt="postman logo"  />
+  <h1>👨🏻‍💻 João Vitor</h1>
+  <h3>Desenvolvedor Full Stack</h3>
+
+  <p>Apaixonado por tecnologia, sempre buscando aprender e construir soluções eficientes.</p>
 </div>
 
-###
+---
+
+### Sobre mim
+
+- 🔭 Atualmente focado em **desenvolvimento Full Stack** com TypeScript e React
+- 🌱 Aprendendo mais sobre **arquitetura de software, Next.js e DevOps**
+- 💡 Buscando oportunidades para crescer como desenvolvedor
+- 📫 **joaovitorg.dev@gmail.com**
+
+---
+
+### 🛠️ Tecnologias
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=joaovitorgdev&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=joaovitorgdev&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://skillicons.dev/icons?i=ts,js,java,py,php" height="50" alt="main languages" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,nestjs" height="50" alt="frontend & backend" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,docker,postman,git" height="50" alt="tools" />
 </div>
 
-###
+---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joaovitorgdev/joaovitorgdev/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joaovitorgdev/joaovitorgdev/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/joaovitorgdev/joaovitorgdev/output/pacman-contribution-graph.svg">
-</picture>
+### 📊 Minhas Estatísticas
 
-###
+<div align="center">
+  <img height="165" src="https://streak-stats.demolab.com?user=joaovitorgdev&theme=dracula&hide_border=true&border_radius=8&date_format=M%20j%2C%20Y" alt="streak" />
+  <img height="165" src="https://github-profile-trophy.vercel.app?username=joaovitorgdev&theme=dracula&no-bg=true&margin-w=8&margin-h=8&row=1&column=3" alt="trophies" />
+</div>
 
-<div align="left">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=joaovitorgdev&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true" height="170" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitorgdev&layout=compact&theme=dracula&hide_border=true" height="170" alt="top languages" />
+</div>
+
+---
+
+### 📫 Onde me encontrar
+
+<div align="center">
   <a href="https://www.linkedin.com/in/guimaraesjoaovitor/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <a href="https://discord.com/channels/274602125126926337" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <a href="mailto:joaovitorg.dev@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  <a href="joaovitorg.dev@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <a href="https://discord.com/users/seu_id_aqui" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </div>
 
-###
+---
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joaovitorgdev/joaovitorgdev/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joaovitorgdev/joaovitorgdev/output/pacman-contribution-graph.svg">
+    <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/joaovitorgdev/joaovitorgdev/output/pacman-contribution-graph.svg">
+  </picture>
+</p>
