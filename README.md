@@ -1,19 +1,18 @@
 <div align="center">
   <h1>👨🏻‍💻 João Vitor</h1>
-  <h3>Desenvolvedor Full Stack</h3>
+  <h3>Desenvolvedor Full Stack (foco em Back-End)</h3>
 
-  <p>Apaixonado por tecnologia, sempre buscando aprender e construir soluções eficientes.</p>
+  <p>AApaixonado por tecnologia — gosto de construir back-ends robustos, criar APIs e automatizar processos.</p>
 </div>
 
 ---
 
 ### Sobre mim
 
-- 🔭 Atualmente focado em **desenvolvimento Full Stack** com TypeScript e React
-- 🌱 Aprendendo mais sobre **arquitetura de software, Next.js e DevOps**
-- 💡 Buscando oportunidades para crescer como desenvolvedor
-- 📫 **joaovitorg.dev@gmail.com**
-
+- 🎯 Atualmente focado em desenvolvimento Full Stack com Node.js, Python (Flask) e React
+- 🌱 Aprendendo mais sobre arquitetura de software, Next.js e DevOps
+- 💡 Buscando oportunidades para crescer como desenvolvedor Back-End/Full Stack
+- 📫 joaovitorg.dev@gmail.com
 ---
 
 ### 🛠️ Tecnologias
