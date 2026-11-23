@@ -11,7 +11,8 @@
 
 - 🏛️ Desenvolvo sistemas e painéis de dados na Diretoria de TI da Secretaria de Educação de Minas Gerais (rede estadual, 47 regionais)
 - 🤖 Uso agentes de IA (Claude Code, MCP) no dia a dia — com testes e revisão de tudo o que é gerado
-- 🌱 Aprendendo: PostgreSQL, Docker e cloud
+- 🧪 Em todos os projetos: testes com pytest, CI no GitHub Actions e Docker
+- 🌱 Aprofundando agora: PostgreSQL, SQLAlchemy e deploy em cloud
 - 💡 Buscando vaga de Desenvolvedor Python / Back-End / Automação / IA júnior
 - 📫 joaovitorg.dev@gmail.com
 ---
