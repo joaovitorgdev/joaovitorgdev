@@ -11,31 +11,25 @@
 
 - 🏛️ Desenvolvo sistemas e painéis de dados na Diretoria de TI da Secretaria de Educação de Minas Gerais (rede estadual, 47 regionais)
 - 🤖 Uso agentes de IA (Claude Code, MCP) no dia a dia — com testes e revisão de tudo o que é gerado
-- 🧪 Em todos os projetos: testes com pytest, CI no GitHub Actions e Docker
-- 🌱 Aprofundando agora: PostgreSQL, SQLAlchemy e deploy em cloud
+- 🧪 Projetos com testes em pytest e CI no GitHub Actions; Docker no painel-escolas-fastapi
 - 💡 Buscando vaga de Desenvolvedor Python / Back-End / Automação / IA júnior
 - 📫 joaovitorg.dev@gmail.com
+
 ---
 
 ### 🚀 Projetos em destaque
 
-| Projeto | O que é | Stack |
-|---|---|---|
-| 🧠 [segundo-cerebro-ia](https://github.com/joaovitorgdev/segundo-cerebro-ia) | Memória de longo prazo para agentes de IA via hooks + Obsidian. 1.200+ lições em 5 semanas | Python puro · TF-IDF · pytest · CI |
-| 🗺️ [atlas-escolar-demo](https://github.com/joaovitorgdev/atlas-escolar-demo) | Painel de infraestrutura escolar com mapa 2D/3D de 47 regionais (dados fictícios) | Python · SQLite · ECharts |
-| ⚙️ [painel-escolas-fastapi](https://github.com/joaovitorgdev/painel-escolas-fastapi) | API REST + painel web com controle de versão entre usuários e uploads (dados fictícios) | FastAPI · pytest · Docker · CI |
-| 🎬 [pipeline-video-ia](https://github.com/joaovitorgdev/pipeline-video-ia) | Roteiro JSON → narração TTS → legendas Whisper → vídeo com mapas e mídia livre | Python · faster-whisper · ffmpeg · Playwright |
+- 🧠 [segundo-cerebro-ia](https://github.com/joaovitorgdev/segundo-cerebro-ia) — memória de longo prazo para Claude Code e Codex via hooks: busca TF-IDF própria (Python puro) e notas Obsidian. pytest + CI.
+- ⚙️ [painel-escolas-fastapi](https://github.com/joaovitorgdev/painel-escolas-fastapi) — API REST com FastAPI: validação Pydantic, controle de revisão (HTTP 409), uploads com limites, Docker e CI.
+- 🗺️ [atlas-escolar-demo](https://github.com/joaovitorgdev/atlas-escolar-demo) ([demo ao vivo](https://joaovitorgdev.github.io/atlas-escolar-demo)) — ETL de planilhas para SQLite e site estático com mapa 3D; dados fictícios.
+- 🎬 [pipeline-video-ia](https://github.com/joaovitorgdev/pipeline-video-ia) — roteiro em JSON, narração TTS, legendas com faster-whisper, render com ffmpeg e publicação com Playwright. 53 testes sem rede.
 
 ---
 
 ### 🛠️ Tecnologias
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,ts,java,php" height="50" alt="main languages" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,react,nextjs,tailwind" height="50" alt="frontend & backend" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=sqlite,postgresql,docker,linux,git" height="50" alt="tools" />
+  <img src="https://skillicons.dev/icons?i=py,fastapi,js,html,css,sqlite,docker,linux,git,githubactions" height="50" alt="tecnologias" />
 </div>
 
 ---
@@ -43,13 +37,7 @@
 ### 📊 Minhas Estatísticas
 
 <div align="center">
-  <img height="165" src="https://streak-stats.demolab.com?user=joaovitorgdev&theme=dracula&hide_border=true&border_radius=8&date_format=M%20j%2C%20Y" alt="streak" />
-  <img height="165" src="https://github-profile-trophy.vercel.app?username=joaovitorgdev&theme=dracula&no-bg=true&margin-w=8&margin-h=8&row=1&column=3" alt="trophies" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joaovitorgdev&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true" height="170" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitorgdev&layout=compact&theme=dracula&hide_border=true" height="170" alt="top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=joaovitorgdev&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true" height="170" alt="estatísticas do GitHub" />
 </div>
 
 ---
