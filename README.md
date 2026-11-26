@@ -19,17 +19,17 @@
 
 ### 🚀 Projetos em destaque
 
-- 🧠 [segundo-cerebro-ia](https://github.com/joaovitorgdev/segundo-cerebro-ia) — memória de longo prazo para Claude Code e Codex via hooks: busca TF-IDF própria (Python puro) e notas Obsidian. pytest + CI.
-- ⚙️ [painel-escolas-fastapi](https://github.com/joaovitorgdev/painel-escolas-fastapi) — API REST com FastAPI: validação Pydantic, controle de revisão (HTTP 409), uploads com limites, Docker e CI.
+- 🧠 [segundo-cerebro-ia](https://github.com/joaovitorgdev/segundo-cerebro-ia) — memória de longo prazo para Claude Code e Codex via hooks: busca TF-IDF própria (Python puro) e notas Obsidian; lição que contradiz outra marca a antiga como substituída, sem apagar. pytest + CI.
+- ⚙️ [painel-escolas-fastapi](https://github.com/joaovitorgdev/painel-escolas-fastapi) — API REST com FastAPI: SQLAlchemy 2 com Alembic (SQLite e PostgreSQL), validação Pydantic, controle de revisão (HTTP 409), uploads com limites, docker-compose e CI nos dois bancos.
 - 🗺️ [atlas-escolar-demo](https://github.com/joaovitorgdev/atlas-escolar-demo) ([demo ao vivo](https://joaovitorgdev.github.io/atlas-escolar-demo)) — ETL de planilhas para SQLite e site estático com mapa 3D; dados fictícios.
-- 🎬 [pipeline-video-ia](https://github.com/joaovitorgdev/pipeline-video-ia) — roteiro em JSON, narração TTS, legendas com faster-whisper, render com ffmpeg e publicação com Playwright. 53 testes sem rede.
+- 🎬 [pipeline-video-ia](https://github.com/joaovitorgdev/pipeline-video-ia) — roteiro gerado pela API do Claude com saída estruturada (Pydantic), narração TTS, legendas com faster-whisper, render com ffmpeg e publicação com Playwright. 62 testes sem rede.
 
 ---
 
 ### 🛠️ Tecnologias
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,fastapi,js,html,css,sqlite,docker,linux,git,githubactions" height="50" alt="tecnologias" />
+  <img src="https://skillicons.dev/icons?i=py,fastapi,postgres,js,html,css,sqlite,docker,linux,git,githubactions" height="50" alt="tecnologias" />
 </div>
 
 ---
